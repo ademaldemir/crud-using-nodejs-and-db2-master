@@ -181,6 +181,7 @@ Update the `.env` file with the credentials from your Assistant service.
 
 ```bash
     npm install
+    npm install ibm_db
     yarn install
 ```
 
